@@ -7,7 +7,7 @@ import styles from '@/styles/Destacados.module.css';
 const ProductosDestacados = ({ agregarAlCarrito }) => {
   return (
     <section className={styles.destacados}>
-      <h2>🚗 Carros Futuristas Destacados</h2>
+      <h2>🎀 Productos con calidad🎀</h2>
       <div className={styles.grid}>
         {destacados.map((producto) => (
           <div key={producto.id} className={styles.card}>

@@ -4,12 +4,12 @@
 
 /* Define global color and font variables */
 :root {
-  --background-color-body: #0a0a23;
-  --background-color-navbar: rgba(15, 15, 25, 0.75);
+  --background-color-body: #fce4ec;
+  --background-color-navbar: rgba(243, 196, 226, 0.75);
   --color-text: #e0f7fa;
   --color-accent: #00fff7;
   --font-family: 'Orbitron', sans-serif;
-  --shadow-neon: 0 0 12px rgba(0, 255, 247, 0.4);
+  --shadow-neon: 0 0 12px rgba(240, 170, 243, 0.4);
 }
 
 /* Global Reset and Layout */
@@ -24,7 +24,7 @@ h1 {
   }
   
 body {
-  background-color: var(--background-color-body);
+  background-color: var(--#fce4ec);
   color: var(--color-text);
   font-family: var(--font-family);
   line-height: 1.6;

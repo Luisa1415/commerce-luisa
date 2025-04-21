@@ -11,9 +11,9 @@
   align-items: center;
   z-index: 1000;
   height: 100px;
-  background-color: #0a0a23; /* Color sólido oscuro */
-  box-shadow: 0 0 20px rgba(0, 255, 247, 0.2); /* Sombras neón suaves */
-  border-bottom: 1px solid rgba(0, 255, 247, 0.1);
+  background-color: #f5c4ea; /* Color sólido oscuro */
+  box-shadow: 0 0 20px rgba(143, 213, 211, 0.2); /* Sombras neón suaves */
+  border-bottom: 1px solid rgba(178, 168, 245, 0.1);
   font-family: 'Orbitron', sans-serif;
   transition: background 0.3s ease, box-shadow 0.3s ease;
 }
@@ -24,7 +24,7 @@
 
 /* Ya no necesitas la clase .scrolled si siempre quieres fondo sólido */
 .scrolled {
-  background-color: #0a0a23;
+  background-color: #a555bb;
   box-shadow: 0 0 20px rgba(0, 255, 247, 0.2);
   border-bottom: 1px solid rgba(0, 255, 247, 0.1);
 }

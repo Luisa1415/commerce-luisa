@@ -3,10 +3,10 @@
     max-width: 100%;
     margin: auto;
     padding: 20px;
-    background-color: #030014; /* Fondo oscuro futurista */
+    background-color: #e9a4d8; /* Fondo oscuro futurista */
     display: flex;
     min-height: 100vh;
-    color: #00f9ff;
+    color: #8de9eb;
     font-family: 'Orbitron', sans-serif; /* Fuente estilo sci-fi */
   }
   

@@ -25,7 +25,7 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-      <div className={styles.logo}>FuturCars 🏎️</div>
+      <div className={styles.logo}>Glow Time🌹 </div>
       <ul className={styles.navLinks}>
         <li><Link href='/'>Inicio</Link></li>
         <li><Link href='/products'>Productos</Link></li>

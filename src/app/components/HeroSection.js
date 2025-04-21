@@ -8,8 +8,8 @@ export default function HeroSection() {
     <section className={styles.hero}>
       <div className={styles.overlay}>
         <div className={styles.content}>
-          <h1>Explora lo mejor en autos futuristas</h1>
-          <p>Descubre vehiculos de calidad y potencia</p>
+          <h1>Explora nuestros productos cosmeticos</h1>
+          <p>Descubre nuestros productos de calidad</p>
           <Link href="/products" className={styles.btn}>Ver Productos</Link>
         </div>
       </div>
