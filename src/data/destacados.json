@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Set de Maquillaje Premium",
+    "descripcion": "Incluye base, labiales y sombras de alta duración en estuche elegante.",
+    "precio": 125000,
+    "imagen": "/images/cosmetica1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Colección Skincare Hidratante",
+    "descripcion": "Kit con limpiador, tónico y crema hidratante para todo tipo de piel.",
+    "precio": 98000,
+    "imagen": "/images/cosmetica2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Maquillaje Artístico Pro",
+    "descripcion": "Estuche completo para maquillaje profesional con pinceles incluidos.",
+    "precio": 139000,
+    "imagen": "/images/cosmetica3.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Sérum Facial Vitaminado",
+    "descripcion": "Concentrado antioxidante con vitamina C para iluminar la piel.",
+    "precio": 65000,
+    "imagen": "/images/cosmetica4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Kit Cuidado Diario",
+    "descripcion": "Incluye jabón facial, exfoliante suave y loción reparadora.",
+    "precio": 87000,
+    "imagen": "/images/cosmetica5.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Paleta de Sombras Neon",
+    "descripcion": "Colores intensos y vibrantes para looks creativos y modernos.",
+    "precio": 56000,
+    "imagen": "/images/cosmetica6.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Crema Corporal Antioxidante",
+    "descripcion": "Hidratación profunda con extractos naturales y aroma suave.",
+    "precio": 45000,
+    "imagen": "/images/cosmetica7.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Perfume Aurora Mist",
+    "descripcion": "Fragancia femenina con notas florales y cítricas.",
+    "precio": 115000,
+    "imagen": "/images/cosmetica8.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Tratamiento Capilar Nutritivo",
+    "descripcion": "Acondicionador sin enjuague para cabello seco o maltratado.",
+    "precio": 72000,
+    "imagen": "/images/cosmetica9.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Pack de Labiales Matte",
+    "descripcion": "Cinco tonos mate de alta cobertura y larga duración.",
+    "precio": 59000,
+    "imagen": "/images/cosmetica10.png"
+  }
+]
